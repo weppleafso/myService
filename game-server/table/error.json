@@ -1,4 +1,7 @@
 {
     "MSG_MISS_PARAM": 1,
+    "SAME_NICKNAME":2,
+    "NOCHATCHANNEL":3,
     "SERVICE_ERROR": 500
+    
 }
