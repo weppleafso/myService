@@ -28,9 +28,9 @@ app.configure('production|development', 'gate', function(){
     });
 });
 
-app.configure('production|development',function(){
-  app.route("chat",routeUtil.chat)
-})
+// app.configure('production|development',function(){
+//   app.route("chat",routeUtil.chat)
+// })
 
 // start app
 app.start();
